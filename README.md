@@ -11,3 +11,6 @@ The Exercise Tracker is a full-stack JavaScript application that allows users to
 ## Completion Status
 - Finished the Exercise Tracker project and passed all the tests:
   - Completed the necessary change in the index.js file 
+
+--
+📄 License: This project is completed for educational purposes under the FreeCodeCamp curriculum.
